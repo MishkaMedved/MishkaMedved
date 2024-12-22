@@ -24,6 +24,5 @@
 
 ## 📊 Статистика
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithub&layout=compact&theme=tokyonight)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MishkaMedved&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MishkaMedved&layout=compact&theme=tokyonight)
