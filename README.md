@@ -1,5 +1,5 @@
-# 👋 Привет! Я [Порозов Михаил]
-### Java Developer | Backend Enthusiast | Open-Source Contributor
+# 👋 Привет! Я Порозов Михаил
+### Java Developer | Backend Enthusiast
 
 ## 🧑‍💻 Обо мне
 
