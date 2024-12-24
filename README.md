@@ -17,6 +17,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23DC322F.svg?style=flat-square&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white)
 
 ## 💻 Мои проекты
 
